@@ -1,6 +1,6 @@
 # License: All Rights Reserved
 
-Copyright (C) [Moghal Sheeba] [2024]. All Rights Reserved.
+Copyright (C) [Pranav Patil] [2024]. All Rights Reserved.
 
 ---
 
@@ -28,5 +28,5 @@ This software is provided "as-is," without warranty of any kind, express or impl
 
 ---
 
-For any inquiries or permission requests, please contact [sm3924@georgetown.edu or msheeba00@gmail.com].
+For any inquiries or permission requests, please contact [pp755@georgetown.edu].
 
