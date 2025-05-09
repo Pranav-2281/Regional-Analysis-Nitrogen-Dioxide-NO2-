@@ -8,6 +8,7 @@ The project focuses on:
 2. Temporal NO2 emission changes in France and India.
 3. Global NO2 compliance trends based on WHO guidelines.
 
+![](/no2.png)
 ## Data Sources
 1. **WHO Air Quality Database (2022)**: Includes annual mean concentrations of PM2.5, PM10, and NO2 across cities worldwide.
 2. **World Bank Population Data (2022)**: Provides population data for demographic analysis.
